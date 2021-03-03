@@ -1,0 +1,13 @@
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.exe
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.deps.json
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.runtimeconfig.json
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.runtimeconfig.dev.json
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.dll
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\bin\Debug\netcoreapp3.1\TC 1.pdb
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.csprojAssemblyReference.cache
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.AssemblyInfoInputs.cache
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.AssemblyInfo.cs
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.csproj.CoreCompileInputs.cache
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.dll
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.pdb
+C:\Users\keyla\OneDrive\Documentos\Segundo semestre-LAPTOP-S2M954M8\Programacion l\TC 1\obj\Debug\netcoreapp3.1\TC 1.genruntimeconfig.cache
